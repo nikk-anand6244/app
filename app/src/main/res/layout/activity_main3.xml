@@ -92,7 +92,7 @@
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:text="Name"
+                        android:text="@string/names"
                         android:textSize="22sp"
                         android:layout_margin="6dp"
                         android:padding="4dp"
@@ -230,6 +230,7 @@
                 android:layout_margin="6dp">
 
                 <Button
+                    android:id="@+id/button1"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:text="@string/cancel"
@@ -238,6 +239,7 @@
                     android:padding="5dp" />
 
                 <Button
+                    android:id="@+id/button2"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:text="@string/save"
