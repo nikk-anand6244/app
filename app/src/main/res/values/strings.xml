@@ -28,4 +28,12 @@
     <string name="don_t_have_account">Don\'t have Account?</string>
     <string name="your_password">your_password</string>
     <string name="submit">Submit</string>
+
+    <string-array name="gender">
+
+        <item name="select">Select your gender</item>
+        <item name="select">Male</item>
+        <item name="select">Female</item>
+
+    </string-array>
 </resources>

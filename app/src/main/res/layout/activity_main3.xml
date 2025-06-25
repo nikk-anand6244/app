@@ -64,16 +64,18 @@
                     android:padding="2dp"
                     android:layout_margin="3dp"
                     android:contentDescription="@null"/>
+
                 <ImageView
-                    android:layout_width="110dp"
+                    android:layout_width="100dp"
                     android:layout_height="160dp"
-                    android:src="@drawable/img"
                     android:layout_gravity="center_horizontal"
-                    android:padding="2dp"
                     android:layout_margin="3dp"
-                    android:contentDescription="@null"/>
+                    android:contentDescription="@null"
+                    android:padding="2dp"
+                    android:src="@drawable/img" />
+
                 <ImageView
-                    android:layout_width="140dp"
+                    android:layout_width="120dp"
                     android:layout_height="190dp"
                     android:src="@drawable/img"
                     android:layout_gravity="center_horizontal"
